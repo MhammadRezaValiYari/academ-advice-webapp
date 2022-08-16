@@ -1,0 +1,49 @@
+#navigation {
+    background-color: rgb(255, 255, 255);
+    opacity: 0.95;
+}
+#get_started_btn {
+    width: 154px;
+}
+#navbar-brand {
+    color: black;
+    font-weight: 700;
+}
+.text-head {
+    color: #0F00FF;
+}
+.btn{
+    background-color: #0F00FF;
+    color: rgb(255, 255, 255);
+    
+} 
+.btn:hover {
+    color: rgb(255, 255, 255);
+}
+
+li {
+    color: black;
+}
+
+.card-link {
+    color: #0F00FF;
+    text-align: center;
+    text-decoration: none;
+}
+.contact,a {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-decoration: none;
+}
+.foot-text {
+    color: bisque;
+    text-decoration: rtl;
+}
+.phone-nummber {
+    color: bisque;
+    text-decoration: rtl;
+}
+
+footer {
+    background-color: #0F00FF;
+}

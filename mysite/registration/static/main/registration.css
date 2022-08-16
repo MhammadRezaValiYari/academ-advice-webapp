@@ -1,0 +1,47 @@
+.col-md-8 {
+    background-color: rgb(255, 255, 238);
+    border-radius: 5px;
+    
+}
+a,.btn {
+    color: rgb(255, 255, 255);
+}
+a,.btn:hover {
+    color: rgb(255, 255, 255);
+}
+.row {
+    display: grid;
+    align-items: center;
+}
+
+
+#submit_btn {
+    width: 154px;
+    box-sizing: content-box;
+    background-color: #0F00FF;
+    color: rgb(255, 255, 255);
+}
+#transport_btn {
+    width: 154px;
+    box-sizing: content-box;
+    background-color: rgb(223, 171, 29);
+    color: rgb(255, 255, 255);
+}
+#login_btn{
+    width: 154px;
+    box-sizing: content-box;
+    background-color: rgb(7, 131, 153);
+    color: rgb(255, 255, 255);
+}
+.foot-text {
+    color: bisque;
+    text-decoration: rtl;
+}
+.phone-nummber {
+    color: bisque;
+    text-decoration: rtl;
+}
+
+footer {
+    background-color: #0F00FF;
+}

@@ -1,0 +1,24 @@
+.box {
+    
+    margin: 0 auto;
+}
+
+.btn{
+    background-color: #0F00FF;
+    color: rgb(255, 255, 255);
+    
+} 
+.btn:hover {
+    color: rgb(255, 255, 255);
+}
+
+.col-md-10 {
+    background-color: blanchedalmond;
+    border-radius: 5px;
+}
+form {
+    
+    margin: 0 auto;
+    padding: 40px;
+    width: fit-content;
+}

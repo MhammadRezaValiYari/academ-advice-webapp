@@ -1,0 +1,38 @@
+#navigation {
+    background-color: rgb(255, 255, 255);
+    opacity: 0.95;
+}
+.col-md-8 {
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgb(255, 217, 0);
+}
+#get_started_btn {
+    width: 154px;
+}
+#navbar-brand {
+    color: black;
+    font-weight: 700;
+}
+.btn{
+    background-color: #0F00FF;
+    color: white;
+    
+} 
+.btn:hover {
+   color: white;
+}
+
+li {
+    color: #0F00FF
+}
+#about {
+    background-color: rgb(238, 237, 228);
+}
+.projects,a {
+    color: #0F00FF;
+    text-align: center;
+    text-decoration: none;
+}
